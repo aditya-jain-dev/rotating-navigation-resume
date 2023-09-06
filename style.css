@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #wrapper{
@@ -132,12 +133,13 @@ nav ul li + li + li + li+ li{
 }
 
 .main-heading{
-    font-size: 35px;
+    font-size: 50px;
     font-weight: 800;
     text-transform: uppercase;
 }
 
 .sub-heading{
+    font-size: 18px;
     font-style: italic;
     margin-bottom: 20px;
 }
